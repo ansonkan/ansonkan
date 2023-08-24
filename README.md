@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning to be mindfulness
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: [ansonkan31@gmail.com](mailto:ansonkan31@gmail.com)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ansonkan?ext=heatmap&theme=nord)
+
 <!--
 **ansonkan/ansonkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
