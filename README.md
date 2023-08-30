@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ansonkan?ext=heatmap&theme=nord)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ansonkan?ext=heatmap&theme=nord)](https://leetcode.com/ansonkan/)
 
 <!--
 **ansonkan/ansonkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
